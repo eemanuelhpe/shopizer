@@ -19,6 +19,9 @@ public class SchemaConstant {
 	public static final String[] LANGUAGE_ISO_CODE_VUL_2 = {"en", "fr"};
 	
 	public static final String[] LANGUAGE_ISO_CODE_VUL_3 = {"en", "fr"};
+	
+        public static final String[] LANGUAGE_ISO_CODE_VUL_4 = {"en", "fr"};
+
 
 	
 	/**
